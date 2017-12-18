@@ -2,7 +2,7 @@
 
 A mini app to try to match angles, proportion and placement to improve your observation skills and hopefully drawing.
 
-Try the demo [here](https://jasonify.github.io//Drawing-Checker).
+Try the demo [here](https://jasonify.github.io/Drawing-Checker).
 ## How it works
 
 The idea is you first draw on the left side using the line tool.
